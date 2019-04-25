@@ -3,8 +3,8 @@
     Tuba Farm Equipment
  *    Variables and functions
  *    
- *    Author: 
- *    Date:   
+ *    Author: Christian Gregorio
+ *    Date: 4.24.19 
 
  *    Filename: tuba.js
  */
